@@ -1,5 +1,6 @@
 # receptionist-cb
 a friendly rule based receptionist chatbot for a Mr Ogun
+
 Submission Overview
 1. The Task
 The objective of this project was to build a deterministic, rule-based chatbot in Python. The system is designed to run in a continuous interactive loop, process user inputs reliably, map queries to pre-defined intents without using generative LLMs, handle unrecognized inputs gracefully, and provide a clear exit strategy.
