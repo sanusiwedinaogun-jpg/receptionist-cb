@@ -1,5 +1,5 @@
 # receptionist-cb
-a friendly rule based receptionist chatbot for a Mr Ogun
+first decodelabs task, a friendly rule based receptionist chatbot for a Mr Ogun
 
 Submission Overview
 1. The Task
